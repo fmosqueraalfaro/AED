@@ -1,7 +1,7 @@
 ## Materia
 •	Algoritmos y estructura de datos
 ##Comisión
-•	K2051
+•	K1051
 ## Año
 •	2022
 ## Legajo
