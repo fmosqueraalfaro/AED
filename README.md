@@ -1,4 +1,3 @@
-#AED
 ## Materia
 •	Algoritmos y estructura de datos
 ##Comisión
