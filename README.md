@@ -1,7 +1,14 @@
-# AED
-• Algoritmos y Estructuras de Datos 
-• K1051 
-• 2022 
-• 2038870 
-• Mosquera Alfaro 
-• Francisco
+#AED
+## Materia
+•	Algoritmos y estructura de datos
+##Comisión
+•	K2051
+## Año
+•	2022
+## Legajo
+•	2038870
+
+## Apellido
+•	Mosquera Alfaro
+## Nombre
+•	Francisco
