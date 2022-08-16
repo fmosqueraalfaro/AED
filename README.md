@@ -1,6 +1,5 @@
 ## Materia
-•	Algoritmos y estructura de datos
-##Comisión
+•	Algoritmos y estructura de datos##Comisión
 •	K2051
 ## Año
 •	2022
