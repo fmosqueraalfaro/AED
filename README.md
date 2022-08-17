@@ -1,6 +1,6 @@
 ## Materia
 •	Algoritmos y estructura de datos
-## Comisión 
+## Curso 
 • K1051
 ## Año
 •	2022
