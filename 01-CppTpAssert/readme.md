@@ -16,8 +16,6 @@ Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipo
 
 ```
 DD-EjemploTipos
-- AED 
--00-CppHelloWorld
   |-- readme.md 
   ´-- EjemploTipos.cpp
 ```
